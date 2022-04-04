@@ -1,4 +1,11 @@
-### Hi there 👋
+Hello! 
+
+My name is Michael and I'm currently a graduate student of CSU Global close to finishing my MS in Data Analytics.
+
+I'm interested in finance, machine learning, and data storytelling.
+
+📫 How to reach me: michael.cultrera@csuglobal.edu
+
 
 <!--
 **mrcultrera/mrcultrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
